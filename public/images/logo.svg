@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="35" font-family="Arial" font-size="30" font-weight="bold">
+    Wanderland
+  </text>
+  <path d="M180 25 L190 15 L200 25" stroke="#047857" stroke-width="2" fill="none"/>
+</svg> 
